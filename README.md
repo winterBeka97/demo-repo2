@@ -8,5 +8,5 @@ Some text
 
 ## Another subheader
 
-##Master header
-
+## Master header
+Have fun
