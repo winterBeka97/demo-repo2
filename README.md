@@ -1,6 +1,6 @@
 # Demo 2
 
-Some text 
+Another test repository created with Git.
 
 ## Local development
 
